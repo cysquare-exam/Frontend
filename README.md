@@ -1,2 +1,2 @@
 # Frontend
-cysquare Frontend
+cys Frontend
